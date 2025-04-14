@@ -1,0 +1,20 @@
+{
+  "name": "devops-final-project",
+  "version": "1.0.0",
+  "description": "Práctica final de DevOps CI/CD con GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "devops",
+    "cicd",
+    "github"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
