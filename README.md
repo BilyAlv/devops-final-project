@@ -1,6 +1,3 @@
-### 📁 `README.md`
-
-```markdown
 # 🚀 DevOps Práctica Final - CI/CD con GitHub, Docker y GitHub Actions
 
 Este proyecto es una práctica final del curso de DevOps, en la que se integran conceptos como control de versiones, pruebas automatizadas, contenedores Docker y despliegue continuo con GitHub Actions y GitHub Pages.
@@ -70,9 +67,7 @@ Cada vez que se hace push o pull request a `main`, GitHub Actions ejecuta autom�
 
 La página está publicada en GitHub Pages y accesible en:
 
-📎 **https://TU_USUARIO.github.io/devops-final-project/**
-
-> *Reemplaza "TU_USUARIO" por tu nombre de usuario real en GitHub.*
+📎 **https://bilyalv.github.io/devops-final-project/**
 
 ---
 
